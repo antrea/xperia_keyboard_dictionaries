@@ -2,11 +2,10 @@
 
 Verified language-pack archive for the discontinued Sony Xperia Keyboard / SwiftKey SDK integration.
 
-##XDA Thread
+## XDA Thread
 
-[APP][MOD] Xperia Keyboard 8.1.A.0.12 – T9 Fix & Dictionary Fix
+[[APP][MOD] Xperia Keyboard 8.1.A.0.12 – T9 Fix & Dictionary Fix](https://xdaforums.com/t/app-mod-xperia-keyboard-8-1-a-0-12-t9-fix-dictionary-fix.4796648/)
 
-https://xdaforums.com/t/app-mod-xperia-keyboard-8-1-a-0-12-t9-fix-dictionary-fix.4796648/
 
 ## Contents
 
